@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Splend1d(燦爛) <img src="https://www.streamscheme.com/wp-content/uploads/2020/04/Vohiyo.png" width="40px" /></h1>
+<h1 align="center">Hi! Welcome to my page! <img src="https://www.streamscheme.com/wp-content/uploads/2020/04/Vohiyo.png" width="40px" /></h1>
 
 - I open source random stuff here! <img src="https://cdn.frankerfacez.com/emoticon/210748/2" width="12px">
 

@@ -28,5 +28,5 @@
 | &nbsp;&nbsp;&nbsp; [LeetCode](https://leetcode.com/Splend1dChan/) &nbsp;&nbsp;&nbsp;
 | &nbsp;&nbsp;&nbsp; [YT](https://www.youtube.com/channel/UCF8JMK9s7-OKrFywpga1veA) &nbsp;&nbsp;&nbsp;
 | &nbsp;&nbsp;&nbsp; [Medium](https://medium.com/@splend1dchan) &nbsp;&nbsp;&nbsp;
-| &nbsp;&nbsp;&nbsp; [CV](https://raw.githubusercontent.com/Splend1d/Splend1d/master/%E8%A8%B1%E6%B9%9B%E7%84%B6_Hsu_Chan_Jan__CV.pdf) &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; [CV](https://raw.githubusercontent.com/Splend1d/Splend1d/main/%E8%A8%B1%E6%B9%9B%E7%84%B6_Hsu_Chan_Jan__CV.pdf) &nbsp;&nbsp;&nbsp;
 | 

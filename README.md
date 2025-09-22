@@ -5,9 +5,9 @@
 * Research Interests
     * Natural Language Processing
     * Multimodal Representation Learning
-       * [Generative Fusion Decoding - Under Submission](https://arxiv.org/abs/2405.14259)
-       * [T5lephone - ICASSP Publication](https://github.com/Splend1d/T5lephone)
-       * [XDBERT - ACL Main Publication](https://aclanthology.org/2022.acl-short.52/)
+       * [Generative Fusion Decoding - ACL 2025 Findings](https://arxiv.org/abs/2405.14259)
+       * [T5lephone - ICASSP 2023 Publication](https://github.com/Splend1d/T5lephone)
+       * [XDBERT - ACL 2022 Main Publication](https://aclanthology.org/2022.acl-short.52/)
 
 * Other Interests
     * Music Composing

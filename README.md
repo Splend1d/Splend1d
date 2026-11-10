@@ -1,5 +1,7 @@
 <h1 align="center">Hi! Welcome to my page!</h1>
 
+<p align="center">🏠 Personal homepage: <a href="https://splend1d.github.io">splend1d.github.io</a></p>
+
 - I open source random stuff here! <img src="https://cdn.frankerfacez.com/emoticon/210748/2" width="12px">
 
 * Research Interests
@@ -26,6 +28,7 @@
 
 
 ----------
+| &nbsp;&nbsp;&nbsp; [Homepage](https://splend1d.github.io) &nbsp;&nbsp;&nbsp;
 | &nbsp;&nbsp;&nbsp;  [LinkedIn](https://www.linkedin.com/in/chan-jan-hsu-1b0754181/) &nbsp;&nbsp;&nbsp;
 | &nbsp;&nbsp;&nbsp; [Kaggle](https://www.kaggle.com/a24998667) &nbsp;&nbsp;&nbsp;
 | &nbsp;&nbsp;&nbsp; [LeetCode](https://leetcode.com/Splend1dChan/) &nbsp;&nbsp;&nbsp;
